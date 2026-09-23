@@ -51,4 +51,4 @@ Lab-05-Nested-Decision-Structures/
 
 ### Author
 
-Name: Mohammad Ahmed     Roll No: 26K-0662     Section: BCS-1D
+Name: Mohammad Ahmed / Roll No: 26K-0662 / Section: BCS-1D
